@@ -1,8 +1,8 @@
 {
-  "name": "eleventy-google-sheets",
+  "name": "eleventy-google-sheets-Discord",
   "version": "0.0.1",
-  "description": "Using Eleventy to push data to site at build time",
-  "author": "David Atanda",
+  "description": "NFL Discord to Webapp",
+  "author": "Rohit",
   "license": "MIT",
   "scripts": {
     "start": "npm run dev",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/atanda1/11tywithgooglesheet"
+    "url": "https://github.com/NearFutureLaboratory/ChesterBob"
   },
   "dependencies": {
     "@11ty/eleventy": "^0.8.3",
